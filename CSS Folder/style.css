@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.sec1 {
+
+    color: red;
+}
