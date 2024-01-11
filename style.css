@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'roboto';
+    
+}
+
+.sec1 {
+   background-color: navy;
+   color: white;
+}
+
+.header {
+   font-weight: 900;
+   
+}
+
+.links {
+    
+}
+
+
+
