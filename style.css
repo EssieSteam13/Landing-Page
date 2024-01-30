@@ -10,14 +10,26 @@ body {
    color: white;
 }
 
+
+
 .header {
    font-weight: 900;
+   display: flex;
+   align-items: flex-start;
+   padding-right: 150px;
+   width: 1300px;
+   justify-content: space-between;
+   margin: 15px;
    
 }
 
 .links {
+   align-items: flex-end;
+   font-weight: 200;
     
 }
+
+
 
 
 
